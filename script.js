@@ -46,11 +46,11 @@ function total(){
          Physics: ${sub3} <br>
          Computer: ${sub4} <br>
          Science: ${sub5} <br>
-         Biology: ${sub2} <br>
-         Geography: ${sub3} <br>
-         Further Maths: ${sub4} <br>
-         Civic Education: ${sub5} <br>
-         Economics: ${sub5} <br>
+         Biology: ${sub6} <br>
+         Geography: ${sub7} <br>
+         Further Maths: ${sub8} <br>
+         Civic Education: ${sub9} <br>
+         Economics: ${sub10} <br>
          <span style= "border: 2px solid green">Total Scores: ${sum}</span>
          ` 
     }
@@ -135,5 +135,6 @@ function grade(){
             gradeMark.innerHTML = `No marks entered yet`;
         }
     }
+
 
 }
