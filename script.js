@@ -45,7 +45,7 @@ function total(){
          Mathematics: ${sub2} <br>
          Physics: ${sub3} <br>
          Computer: ${sub4} <br>
-         Science: ${sub5} <br>
+         Chemistry: ${sub5} <br>
          Biology: ${sub6} <br>
          Geography: ${sub7} <br>
          Further Maths: ${sub8} <br>
